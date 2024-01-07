@@ -25,7 +25,3 @@ Este repositório contém o código e os materiais do Minicurso de Python fornec
 - Configuração de um app para manipular e-mails do Gmail por aplicações terceiras
 - Envio de E-mail com anexo utilizando SmtpLib
 - Considerações Gerais - Estudo de Caso
-
-
-## Uso
-
