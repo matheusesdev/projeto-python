@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém o código e os materiais do Minicurso de Python fornecido pela OneBitCode. O curso abordou tópicos como importação de dados, manipulação de dados, criaçãi de gráfico e envio de e-mail utilizando SMTPLIB.
+Este repositório contém o código e os materiais do Minicurso de Python fornecido pela OneBitCode. O curso abordou tópicos como importação de dados, manipulação de dados, criação de gráfico e envio de e-mail utilizando SMTPLIB.
 
 ## Conteúdo do Curso
 
