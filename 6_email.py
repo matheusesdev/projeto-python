@@ -2,11 +2,14 @@ import smtplib
 import ssl 
 import mimetypes
 from email.message import EmailMessage
+from dotenv import load_dotenv
+import os 
 
+load_dotenv()
 # 1 - Dados do E-mail
-password = open("senha", "r").read()
-from_email ="matheuses1897@gmail.com"
-to_email = "matheuses1897@gmail.com"
+password = os.getenv("PASSWORD")
+from_email =os.getenv("EMAIL")
+to_email = "emailquevaireceber@example.com"
 subjective = "Automação Planilha"
 body = """
 Olá, segue em anexo a automação da planilha 
